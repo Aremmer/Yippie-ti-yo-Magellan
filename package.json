@@ -1,0 +1,24 @@
+{
+  "name": "magellan",
+  "version": "1.0.0",
+  "description": "showing Magellan's voyage using different sites",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aremmer/Yippie-ti-yo-Magellan.git"
+  },
+  "author": "Kyle W Miller, Christian M Macy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aremmer/Yippie-ti-yo-Magellan/issues"
+  },
+  "homepage": "https://github.com/Aremmer/Yippie-ti-yo-Magellan#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "morgan": "^1.7.0"
+  }
+}
